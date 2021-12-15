@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.2ef0186d.chunk.css",
-    "main.js": "/static/js/main.18632850.chunk.js",
-    "main.js.map": "/static/js/main.18632850.chunk.js.map",
+    "main.css": "/static/css/main.a19d5e27.chunk.css",
+    "main.js": "/static/js/main.a2055a05.chunk.js",
+    "main.js.map": "/static/js/main.a2055a05.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c954cc88.js",
     "runtime-main.js.map": "/static/js/runtime-main.c954cc88.js.map",
     "static/js/2.b5aa659d.chunk.js": "/static/js/2.b5aa659d.chunk.js",
@@ -10,24 +10,27 @@
     "static/js/3.6dbff515.chunk.js": "/static/js/3.6dbff515.chunk.js",
     "static/js/3.6dbff515.chunk.js.map": "/static/js/3.6dbff515.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.2ef0186d.chunk.css.map": "/static/css/main.2ef0186d.chunk.css.map",
+    "static/css/main.a19d5e27.chunk.css.map": "/static/css/main.a19d5e27.chunk.css.map",
     "static/js/2.b5aa659d.chunk.js.LICENSE.txt": "/static/js/2.b5aa659d.chunk.js.LICENSE.txt",
     "static/media/cleanTheSea.d2f829d5.png": "/static/media/cleanTheSea.d2f829d5.png",
     "static/media/cycleOfLife.cfce86f6.png": "/static/media/cycleOfLife.cfce86f6.png",
     "static/media/doNotOveruse.3b4abe89.png": "/static/media/doNotOveruse.3b4abe89.png",
+    "static/media/email.c85d698e.svg": "/static/media/email.c85d698e.svg",
     "static/media/externalLink.0e949b77.svg": "/static/media/externalLink.0e949b77.svg",
     "static/media/githubIcon.cec4dec8.svg": "/static/media/githubIcon.cec4dec8.svg",
     "static/media/itchio.f7256e41.svg": "/static/media/itchio.f7256e41.svg",
     "static/media/radBlasters.0d9f4e8e.png": "/static/media/radBlasters.0d9f4e8e.png",
     "static/media/reKnight.62883cc3.png": "/static/media/reKnight.62883cc3.png",
     "static/media/solarpunkEngeneer.b6a1b8a1.png": "/static/media/solarpunkEngeneer.b6a1b8a1.png",
+    "static/media/soundcloud.2a53979c.svg": "/static/media/soundcloud.2a53979c.svg",
     "static/media/spookyDefense.4e8405a0.png": "/static/media/spookyDefense.4e8405a0.png",
-    "static/media/sweetAdventures.7a70b94f.png": "/static/media/sweetAdventures.7a70b94f.png"
+    "static/media/sweetAdventures.7a70b94f.png": "/static/media/sweetAdventures.7a70b94f.png",
+    "static/media/twitter.bc6574b3.svg": "/static/media/twitter.bc6574b3.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c954cc88.js",
     "static/js/2.b5aa659d.chunk.js",
-    "static/css/main.2ef0186d.chunk.css",
-    "static/js/main.18632850.chunk.js"
+    "static/css/main.a19d5e27.chunk.css",
+    "static/js/main.a2055a05.chunk.js"
   ]
 }
